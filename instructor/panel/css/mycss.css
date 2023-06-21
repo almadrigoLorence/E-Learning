@@ -1,0 +1,150 @@
+  @font-face {
+  font-family: Roboto;
+  src: url(ROBOTOP.ttf);
+}
+.bg-premium-dark {
+background: rgb(0,128,131) !important;
+background: linear-gradient(90deg, rgba(0,128,131,1) 0%, rgba(0,131,123,1) 54%, rgba(0,131,103,1) 100%) !important;
+}
+.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after{
+    background-color: #008083 !important;
+}
+#btn-ann{
+    width: 100%;
+
+}
+.widget-heading :hover{
+    background-color: #eeeeee;
+    cursor: pointer;
+}
+.dheader{
+    margin-left: 15px;
+}
+.dheader span{
+    color: #a8a8a8;
+    font-weight: 100;
+    font-family: Arial, sans-serif;
+}
+.dhead{
+    text-align: left;
+    font-weight: 600;
+    font-family: Arial, sans-serif;
+    margin-bottom: -12px;
+    padding-top: 8px;
+}
+.cset,.cset a:hover{
+   background-color: #f5f5f5;
+}
+.logOutBtn {
+    border: none;
+    border-radius: 0px !important;
+    color: #008083;
+    font-size: 15px;
+    background-color: #FFFEFF;
+}
+.logOutBtn div i{
+    background-color: #eeeeee !important;
+    height: 35px;
+    width: 35px;
+    padding: 10px;
+    border-radius: 50%;
+}
+.logout-span{
+    margin: 6px 0px 0px 10px;
+}
+.logout-span span{
+    font-weight: 600;
+}
+.chead{
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+.csubhead{
+    font-family: Arial, sans-serif;
+    font-size: 10px !important;
+    font-weight: 600;
+    font-style: italic;
+    margin-top: -10px;
+}
+.widget-content-left.ml-3.header-user-info{
+    color: #008083 !important;
+    margin-
+}
+i.fa.fa-angle-down.ml-2.opacity-10{
+    color: #008083 !important; 
+}
+.btn-success{
+        border-color: transparent;
+        background-color: transparent;
+        color: black;
+}
+.btn-success:hover{
+        background-color: #3ac47d;
+}
+.qType{
+    	font-weight: bold;
+    	font-size: 25px;
+    	padding: 2% 5%;
+}
+.card.mb-3 {
+    min-height: 165px;
+}   
+.widget-heading.text-dark{
+    color: #008083 !important;
+} 
+.app-header__logo{
+    z-index: 99;
+    background-color: #FFFEFF !important;
+    border-right: 1px solid #E8EAE7;
+background: linear-gradient(145deg, #f0f0f0, #cacaca);
+box-shadow: 3px 0px 3px #e8eae7, 0px 0px 0px #ffffff;
+
+}
+.app-header__content{
+    background-color: #FFFEFF;
+}
+.bg-happy-green{
+    background: #008083 !important;
+}
+.logo-name{
+    color: #060000;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;: 55px;
+}
+.app-sidebar.sidebar-text-dark .vertical-nav-menu li a{
+    color: #E4E4E4 !important;
+}
+.app-sidebar.sidebar-text-dark .app-sidebar__heading{
+    color: #E4E4E4 !important;
+}
+.cbtn-1{
+border-radius: 40px;
+background: linear-gradient(145deg, #ffffff, #e6e5e6);
+box-shadow:  5px 5px 18px #6e6d6e,
+             -5px -5px 18px #ffffff;
+}
+.cbtn {
+    margin-bottom: 20px;
+    font-family: Arial,sans-serif;
+    height: 40px;
+    width: 100%;
+   /* background: linear-gradient(to right, #259B9A 15%,#eeeeee 0%,#eeeeee 0%,#eeeeee 0%,#eeeeee 100%);*/
+    color: #008083;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 22px;
+    background: linear-gradient(145deg, #ffffff, #e6e5e6);
+    box-shadow:  5px 5px 22px #666666,
+             -5px -5px 22px #ffffff;
+}
+.cbtn-66C3B1{
+     background: linear-gradient(to right, #259B9A 15%,#FFFEFF 0%,#FFFEFF 0%,#FFFEFF 0%,#FFFEFF 100%) !important;
+     color: #259B9A !important;
+}
+.cinput{
+background: #ffffff;
+box-shadow: inset 7px 7px 4px #f2f2f2,
+            inset -7px -7px 4px #ffffff;
+}

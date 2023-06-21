@@ -1,0 +1,31 @@
+-Instructor 
+	*Input grade on every activity sent by student
+	*Print students handled, per section
+	*Print students grades
+
+
+
+-Date (fix* for every uploaded files or announcements)
+
+
+
+-Notifications (for uploaded activities, assignment, long exam or quizzes)
+
+
+
+-Activity module (add multimedia limited for 40mb size)
+
+-Lesson Module (add multimedia for every topic limited size of 40mb)
+
+
+
+-Instructor login (instructor account - based on assigned course and section)
+
+-Quiz page (error C:\xampp\htdocs\Thesis7\pages\exam.php on line 43)
+
+-Quiz update button
+
+-Profile Picture (Upload edit delete for Student, Admin, Teacher)
+
+-Term paper (sent/upload on their assigned section - can be viewed by adviser)
+
